@@ -1,0 +1,5 @@
+C:\Users\aleks\Desktop\Работы\TicketPrice\BL\bin\Debug\BL.dll
+C:\Users\aleks\Desktop\Работы\TicketPrice\BL\bin\Debug\BL.pdb
+C:\Users\aleks\Desktop\Работы\TicketPrice\BL\obj\Debug\BL.dll
+C:\Users\aleks\Desktop\Работы\TicketPrice\BL\obj\Debug\BL.pdb
+C:\Users\aleks\Desktop\Работы\TicketPrice\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
